@@ -1,0 +1,1 @@
+# solar-market-entry-strategy
