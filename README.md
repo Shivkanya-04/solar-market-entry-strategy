@@ -33,12 +33,7 @@ solar-market-entry/
 │
 ├── powerbi/
 │ ├── dataset.xlsx
-│ └── sample_exports/
-│ ├── market_growth.png
-│ ├── segment_share.png
-│ ├── state_capacity.png
-│ ├── install_costs.png
-│ └── competition.png
+│ └── charts.pdf
 │
 └── README.md
 
