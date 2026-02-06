@@ -141,4 +141,4 @@ For recruiters or reviewers:
   `docs/Frameworks.pdf`
 
 - **For visuals:**  
-  `powerbi/sample_exports/`
+  `powerbi/charts.pdf/`
